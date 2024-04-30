@@ -16,3 +16,5 @@
   * matplotlib
   * catboost
   * scikit-learn
+## Результат
+### Public score 0.89071, Private score 0.89442
